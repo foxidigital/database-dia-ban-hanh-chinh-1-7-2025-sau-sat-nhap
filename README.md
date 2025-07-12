@@ -12,7 +12,7 @@ Hệ thống ERP, phần mềm quản lý bán hàng, khai báo thuế, thương
 🚀 Tải File SQL Địa Giới Hành Chính Mới (07/2025)
 Bạn có thể truy cập kho dữ liệu GitHub tại đây:
 
-🔗 GitHub Repo: https://github.com/tenuser/tenrepo
+🔗 GitHub Repo: https://github.com/foxidigital/database-dia-ban-hanh-chinh-1-7-2025-sau-sat-nhap/
 📁 File chính: vietnam_dvhc_2025.sql
 📆 Ngày cập nhật: 1/7/2025
 💼 Dạng dữ liệu: MySQL dump (.sql) – sẵn sàng import

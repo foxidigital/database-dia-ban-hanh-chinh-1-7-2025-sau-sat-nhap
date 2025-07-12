@@ -16,6 +16,7 @@ Bạn có thể truy cập kho dữ liệu GitHub tại đây:
 📁 File chính: vietnam_dvhc_2025.sql
 📆 Ngày cập nhật: 1/7/2025
 💼 Dạng dữ liệu: MySQL dump (.sql) – sẵn sàng import
+🔗 Link bài viết: https://foxidigital.com/bo-du-lieu-sql-dia-gioi-hanh-chinh-viet-nam-sau-sap-nhap-1-7-2025-cap-nhat-moi-nhat.html
 
 Bạn chỉ cần 1 thao tác import đơn giản là đã có đầy đủ cấp xã → huyện → tỉnh theo chuẩn mới nhất.
 
